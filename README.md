@@ -1,4 +1,4 @@
-# ten_min_scrapy
+# 10min scrapy tutorial
 ### Requirements
 
 - Python 3.4+
@@ -18,3 +18,9 @@ $ pip install -r requirements.txt
 ```
 $ scrapy crawl scrapy_blog_spider
 ```
+
+### Blog post
+The following post is 10min Scrapy tutorial using this repository's source code.
+
+https://qiita.com/Chanmoro/items/f4df85eb73b18d902739
+(only in Japanese)
