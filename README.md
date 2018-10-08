@@ -1,9 +1,9 @@
 # ten_min_scrapy
-### Require
+### Requirements
 
 - Python 3.4+
 
-### Installing
+### Setup
 Clone this repository and install python libraries.
 
 ```
